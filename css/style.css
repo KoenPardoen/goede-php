@@ -1,0 +1,41 @@
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+.center {
+  margin: auto;
+  margin-top: 300px;
+  width: 350px;
+}
+
+#txt {
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+}
+
+#time {
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+}
+
+#morning {
+  background-image: url(../backgrounds/morning.png);
+}
+
+#afternoon{
+  background-image: url(../backgrounds/afternoon.png);
+}
+
+#evening {
+  background-image: url(../backgrounds/evening.png);
+}
+
+#night {
+  background-image: url(../backgrounds/night.png);
+}
